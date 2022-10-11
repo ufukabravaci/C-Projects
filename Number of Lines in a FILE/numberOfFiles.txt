@@ -1,0 +1,4 @@
+Hello,
+This program calculates
+number of lines
+in this file!

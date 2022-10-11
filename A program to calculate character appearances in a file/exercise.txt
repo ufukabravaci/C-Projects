@@ -1,0 +1,1 @@
+This text name is created by user. Program will read this file and find out the most appeared character and it's number of appearance.

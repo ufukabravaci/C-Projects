@@ -1,0 +1,1 @@
+This program calculates the character that appeared the most in this file. This text is editable.
